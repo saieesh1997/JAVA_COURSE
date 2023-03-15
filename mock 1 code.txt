@@ -1,0 +1,48 @@
+
+String  a ="ABA";
+String Buffer st = new String Buffer();
+for (int i = a.length-1 ; i <= 0 ; i--)
+{
+	st.append(a.CharAt(i))
+}
+
+if(a.equals(st))
+{
+
+	System.out.Println("Palindrome String!");
+
+}
+
+Else
+{
+
+	System.out.Println("Not a Palindrome String!")
+
+}
+
+
+Reverse OF NUMBER 
+
+int number  = 45638 ;
+int rNumber = 0;
+
+while(number != 0)
+{
+    int rem = number % 10;
+    rNumber = rNumber * 10 + rem ;
+    number = number/10;
+}
+
+System.out.println("The Reverse of the Number is"+ rNumber );
+
+
+String Case Converstion
+
+String a = "TAPacademy";
+
+Sytem.out.println(a.toLowerCase());
+String a = a.toLowerCase();	
+
+logic method
+
+Char stri[] =  
