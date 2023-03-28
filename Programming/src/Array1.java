@@ -1,3 +1,4 @@
+import java.util.ArrayList;
 import java.util.Scanner;
 
 class Demo {
@@ -45,6 +46,8 @@ public class Array1 {
 		d.printEveneArrayIndex(arr);
 		d.printOddArrayIndex(arr);
 		d.sumOfArrayElements(arr);
+		
+		
 		
 
 	}
